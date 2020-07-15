@@ -1,0 +1,181 @@
+[{
+    "model": "api.item",
+    "pk": 1,
+    "fields": {
+      "category": 0,
+      "name": "すごいCPU",
+      "description": "",
+      "price": 50000,
+      "created_at": "2020-01-20T00:00:00Z",
+      "updated_at": "2020-01-20T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.item",
+    "pk": 2,
+    "fields": {
+      "category": 0,
+      "name": "普通のCPU",
+      "description": "",
+      "price": 10000,
+      "created_at": "2020-01-20T00:00:00Z",
+      "updated_at": "2020-01-20T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.item",
+    "pk": 3,
+    "fields": {
+      "category": 0,
+      "name": "イマイチなCPU",
+      "description": "",
+      "price": 3000,
+      "created_at": "2020-01-20T00:00:00Z",
+      "updated_at": "2020-01-20T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.item",
+    "pk": 4,
+    "fields": {
+      "category": 1,
+      "name": "すごいマザーボード",
+      "description": "",
+      "price": 30000,
+      "created_at": "2020-01-20T00:00:00Z",
+      "updated_at": "2020-01-20T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.item",
+    "pk": 5,
+    "fields": {
+      "category": 1,
+      "name": "普通のマザーボード",
+      "description": "",
+      "price": 12000,
+      "created_at": "2020-01-20T00:00:00Z",
+      "updated_at": "2020-01-20T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.item",
+    "pk": 6,
+    "fields": {
+      "category": 1,
+      "name": "イマイチなマザーボード",
+      "description": "",
+      "price": 5000,
+      "created_at": "2020-01-20T00:00:00Z",
+      "updated_at": "2020-01-20T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.item",
+    "pk": 7,
+    "fields": {
+      "category": 2,
+      "name": "すごいビデオカード",
+      "description": "",
+      "price": 60000,
+      "created_at": "2020-01-20T00:00:00Z",
+      "updated_at": "2020-01-20T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.item",
+    "pk": 8,
+    "fields": {
+      "category": 2,
+      "name": "普通のビデオカード",
+      "description": "",
+      "price": 8000,
+      "created_at": "2020-01-20T00:00:00Z",
+      "updated_at": "2020-01-20T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.item",
+    "pk": 9,
+    "fields": {
+      "category": 2,
+      "name": "イマイチなビデオカード",
+      "description": "",
+      "price": 2000,
+      "created_at": "2020-01-20T00:00:00Z",
+      "updated_at": "2020-01-20T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.item",
+    "pk": 10,
+    "fields": {
+      "category": 3,
+      "name": "すごいSSD",
+      "description": "",
+      "price": 20000,
+      "created_at": "2020-01-20T00:00:00Z",
+      "updated_at": "2020-01-20T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.item",
+    "pk": 11,
+    "fields": {
+      "category": 3,
+      "name": "普通のHDD",
+      "description": "",
+      "price": 5000,
+      "created_at": "2020-01-20T00:00:00Z",
+      "updated_at": "2020-01-20T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.item",
+    "pk": 12,
+    "fields": {
+      "category": 3,
+      "name": "イマイチなSDカード",
+      "description": "",
+      "price": 800,
+      "created_at": "2020-01-20T00:00:00Z",
+      "updated_at": "2020-01-20T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.item",
+    "pk": 13,
+    "fields": {
+      "category": 4,
+      "name": "かっこいいケース",
+      "description": "",
+      "price": 12000,
+      "created_at": "2020-01-20T00:00:00Z",
+      "updated_at": "2020-01-20T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.item",
+    "pk": 14,
+    "fields": {
+      "category": 4,
+      "name": "普通のケース",
+      "description": "",
+      "price": 3000,
+      "created_at": "2020-01-20T00:00:00Z",
+      "updated_at": "2020-01-20T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.item",
+    "pk": 15,
+    "fields": {
+      "category": 4,
+      "name": "ダサいケース",
+      "description": "",
+      "price": 1500,
+      "created_at": "2020-01-20T00:00:00Z",
+      "updated_at": "2020-01-20T00:00:00Z"
+    }
+  }
+]

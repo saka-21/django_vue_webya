@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <title>API data All</title>
+</head>
+
+<body>
+  <h1>All API</h1>
+  <table>
+    {% for item in data %} 
+    <tr>
+      <td>{{item.category}}</td>
+      <td>{{item.name}}</td>
+      <td>{{item.description}}</td>
+      <td>{{item.price}}</td>
+    </tr>
+    {% endfor %}
+  </table>
+</body>
+
+</html>
